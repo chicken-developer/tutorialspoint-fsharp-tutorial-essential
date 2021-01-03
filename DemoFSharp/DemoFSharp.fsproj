@@ -6,8 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Variables.fs" />
     <Compile Include="DataType.fs" />
-    <Compile Include="Program.fs" />
+    <Compile Include="HelloWorld.fs" />
   </ItemGroup>
 
 </Project>
