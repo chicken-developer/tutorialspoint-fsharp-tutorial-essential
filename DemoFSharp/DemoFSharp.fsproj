@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Member.fs" />
+    <Compile Include="CodeFormatting.fs" />
     <Compile Include="Function.fs" />
     <Compile Include="ForAndWhileLoop.fs" />
     <Compile Include="IfStatement.fs" />
