@@ -3,8 +3,8 @@
 open System
 
 let sign number =
-    if (number > 5) then "This is bigger number"
-    elif (number > 10) then "This is biggest number"
+    if number > 5  || number = 5 then "This is bigger number"
+    elif number > 10 then "This is biggest number"
     else "This is any number"
     //Comment
     (* Comment *)
